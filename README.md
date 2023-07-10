@@ -22,6 +22,6 @@ réduction de dimensions.
 **Description des dossiers et fichiers :**
 * **Notebook** : comportant les étapes de la chaîne de traitement d'images.
 * **Support de présentation**, comprenant :
-* * Rappel de la problématique et présentation du jeu de données
-* *  Présentation du processus de création de l'environnement Big Data, rôle des différentes briques.
-* *  Présentation des différentes étapes de la chaîne de traitement d'image en PySpark.
+  * Rappel de la problématique et présentation du jeu de données
+  *  Présentation du processus de création de l'environnement Big Data, rôle des différentes briques.
+  *  Présentation des différentes étapes de la chaîne de traitement d'image en PySpark.
