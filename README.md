@@ -1,5 +1,5 @@
 # Projet8-OpenClassrooms
-Parcours Data Scientist - Projet 8: Déployez un modèle dans le cloud.
+Parcours Data Scientist - Projet 8 : Déployez un modèle dans le cloud.
 
 **Source de données : https://www.kaggle.com/datasets/moltean/fruits**
 
